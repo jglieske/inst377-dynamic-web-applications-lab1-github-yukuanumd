@@ -49,11 +49,11 @@ That's it — you've completed your first GitHub commit! 🎉
 
 ## Your Info
 
-**Name:** _(replace this)_
+**Name:** _Yukuan Feng_
 
-**GitHub username:** _(replace this)_
+**GitHub username:** _YukuanUMD_
 
-**Something I'm excited to learn this semester:** _(replace this)_
+**Something I'm excited to learn this semester:** _Create a website_
 
 ---
 
